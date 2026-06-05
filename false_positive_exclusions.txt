@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -14,7 +13,6 @@ Giphy
 Hashnode
 Hubski
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -32,7 +30,6 @@ TryHackMe
 Velomania
 Venmo
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -42,4 +39,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
