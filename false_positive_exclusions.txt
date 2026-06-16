@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -15,8 +14,8 @@ HackenProof (Hackers)
 Hashnode
 Hubski
 LessWrong
+OurDJTalk
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
