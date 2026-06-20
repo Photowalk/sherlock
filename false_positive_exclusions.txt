@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -11,13 +10,11 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-GitBook
 Hashnode
 Hubski
 LessWrong
 Odysee
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
