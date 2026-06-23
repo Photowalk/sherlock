@@ -1,10 +1,10 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -33,7 +33,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-furaffinity
 igromania
 interpals
 mercadolivre
