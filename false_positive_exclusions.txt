@@ -1,10 +1,10 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Codolio
 DeviantArt
 Discord.bio
@@ -15,9 +15,10 @@ Hashnode
 Houzz
 Hubski
 LessWrong
-Minecraft
 Odysee
+OurDJTalk
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -41,3 +42,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
