@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -16,7 +17,9 @@ Hubski
 LessWrong
 Minecraft
 Odysee
+PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -27,6 +30,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
@@ -39,4 +43,5 @@ mercadolivre
 opennet
 phpRU
 svidbook
+threads
 xHamster
