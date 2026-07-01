@@ -1,10 +1,10 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Bandcamp
+BreachSta.rs Forum
+Carbonmade
 Codolio
 DeviantArt
 Discord.bio
@@ -43,5 +43,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
-xHamster
