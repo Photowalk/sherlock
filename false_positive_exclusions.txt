@@ -16,10 +16,8 @@ Hashnode
 Houzz
 Hubski
 LessWrong
-LushStories
 Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -40,6 +38,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 igromania
 interpals
 mercadolivre
