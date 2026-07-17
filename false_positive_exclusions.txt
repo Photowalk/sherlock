@@ -12,9 +12,10 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
-Houzz
 Hubski
+Itch.io
 LessWrong
 Odysee
 PCGamer
@@ -34,6 +35,7 @@ Trovo
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
