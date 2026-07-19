@@ -2,7 +2,6 @@
 Airliners
 Apple Developer
 Apple Discussions
-Archive.org
 Bandcamp
 BreachSta.rs Forum
 Codolio
@@ -13,7 +12,9 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
+Minecraft
 Odysee
 PCGamer
 Patched
