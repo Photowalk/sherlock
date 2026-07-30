@@ -1,13 +1,12 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Carbonmade
 Chatujme.cz
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -19,10 +18,8 @@ Hubski
 Instapaper
 LessWrong
 Odysee
-OurDJTalk
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -30,16 +27,13 @@ Replit.com
 RocketTube
 Scribd
 Shelf
-Signal
 SlideShare
 Splice
 Spotify
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
-WordPress
 YandexMusic
 authorSTREAM
 dailykos
