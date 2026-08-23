@@ -17,8 +17,8 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Pornhub
 Rarible
@@ -47,4 +47,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
