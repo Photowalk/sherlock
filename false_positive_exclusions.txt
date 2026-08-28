@@ -1,12 +1,9 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
-Carbonmade
 Championat
 Chatujme.cz
 Codolio
@@ -20,10 +17,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
+Itch.io
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -35,6 +31,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Strava
 Trovo
 TryHackMe
 Velomania
