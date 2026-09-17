@@ -17,8 +17,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Lobsters
-Minecraft
+Itch.io
 ObservableHQ
 Odysee
 PCGamer
