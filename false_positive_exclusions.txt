@@ -19,6 +19,8 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
