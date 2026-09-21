@@ -5,9 +5,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
 Championat
-Chatujme.cz
 ChaturBate
 Codolio
 DeviantArt
@@ -19,7 +17,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Minecraft
 ObservableHQ
 Odysee
@@ -52,4 +49,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
