@@ -28,10 +28,8 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
-Venmo
 Vero
 YandexMusic
 authorSTREAM
@@ -44,3 +42,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
