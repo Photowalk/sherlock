@@ -1,20 +1,19 @@
-APClips
 Airliners
+AniWorld
 Apple Developer
 Apple Discussions
 Archive.org
 Championat
 Chatujme.cz
 Codolio
-DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 GaiaOnline
 GeeksforGeeks
 HackerNews
 Hashnode
 Hubski
 Instapaper
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -43,4 +42,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
